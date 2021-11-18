@@ -25,8 +25,8 @@ print("""
 
     Gun shoots the Snake, Snake drinks the Water and the Water makes Gun unfunctional.
     Computer will randomly choose its option. 
-    Your choice in no wa will affect the decision of the Computer.
-    So this is gonna a FAIR GAME 
+    Your choice in no way will affect the decision of the Computer.
+    So this is gonna be a FAIR GAME 
 
     Choose from following : 
     S - Snake 
