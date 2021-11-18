@@ -21,7 +21,12 @@ import random
 l1 = ["S", "W", "G"]
 
 print("""
-    Welcome to Snake, Water, Gun !!!
+    Welcome to Snake, Water, Gun GAME!!!
+
+    Gun shoots the Snake, Snake drinks the Water and the Water makes Gun unfunctional.
+    Computer will randomly choose its option. 
+    Your choice in no wa will affect the decision of the Computer.
+    So this is gonna a FAIR GAME 
 
     Choose from following : 
     S - Snake 
