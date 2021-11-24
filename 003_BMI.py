@@ -3,7 +3,7 @@
 '''
 Instructions
 
-Write a program thta interprets the BMI based on a users height and weight.
+Write a program that interprets the BMI based on a users height and weight.
 - Under 18.5 - underweight
 - over 18.5 but below 25 - normal
 - over 25 but below 30 - overweight
