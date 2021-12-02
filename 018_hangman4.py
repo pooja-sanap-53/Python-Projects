@@ -1,4 +1,4 @@
-#Step 4
+# Hangman 4
 '''
 #TODO-1: - Create a variable called 'lives' to keep track of the number of lives left. 
 #Set 'lives' to equal 6.

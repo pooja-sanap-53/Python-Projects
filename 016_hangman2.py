@@ -1,4 +1,4 @@
-#Step 2
+# Hangman 2
 '''
 
 #TODO-1: - Create an empty List called display.
