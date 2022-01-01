@@ -13,13 +13,13 @@ Pepperoni for Medium or Large Pizza: +$3
 Extra cheese for any size pizza: + $1
 '''
 
-print('Welcome to Pizaa Hut!!')
+print('Welcome to Pizza Hut!!')
 pizza = input('''\nWhich size of Pizza you want?
 Press 'S' for small size
 Press 'M' for medium size
 Press 'L' for large size
-
 ''')
+
 bill = 0
 
 if(pizza == 'S'):
