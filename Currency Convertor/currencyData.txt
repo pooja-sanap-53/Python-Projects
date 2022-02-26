@@ -1,0 +1,53 @@
+Argentine Peso	1.434172	0.697266
+Australian Dollar	0.018539	53.939597
+Bahraini Dinar	0.005035	198.602499
+Botswana Pula	0.154323	6.479913
+Brazilian Real	0.067630	14.786332
+British Pound	0.009853	101.495514
+Bruneian Dollar	0.018014	55.513477
+Bulgarian Lev	0.023099	43.291331
+Canadian Dollar	0.017046	58.663663
+Chilean Peso	10.616959	0.094189
+Chinese Yuan Renminbi	0.084719	11.803795
+Colombian Peso	52.584399	0.019017
+Croatian Kuna	0.089021	11.233360
+Czech Koruna	0.289184	3.458005
+Danish Krone	0.087856	11.382245
+Emirati Dirham	0.049180	20.333435
+Euro	0.011810	84.670484
+Hong Kong Dollar	0.104478	9.571402
+Hungarian Forint	4.200486	0.238068
+Icelandic Krona	1.667959	0.599535
+Indonesian Rupiah	192.301138	0.005200
+Iranian Rial	564.271697	0.001772
+Israeli Shekel	0.043236	23.129006
+Japanese Yen	1.541005	0.648927
+Kazakhstani Tenge	5.852557	0.170865
+Kuwaiti Dinar	0.004055	246.587876
+Libyan Dinar	0.061428	16.279122
+Malaysian Ringgit	0.056053	17.840116
+Mauritian Rupee	0.588955	1.697922
+Mexican Peso	0.271719	3.680272
+Nepalese Rupee	1.600750	0.624707
+New Zealand Dollar	0.019862	50.347955
+Norwegian Krone	0.118893	8.410936
+Omani Rial	0.005149	194.212067
+Pakistani Rupee	2.361466	0.423466
+Philippine Peso	0.687443	1.454666
+Polish Zloty	0.053649	18.639814
+Qatari Riyal	0.048745	20.514983
+Romanian New Leu	0.058423	17.116657
+Russian Ruble	1.060578	0.942882
+Saudi Arabian Riyal	0.050218	19.913211
+Singapore Dollar	0.018014	55.513477
+South African Rand	0.201393	4.965406
+South Korean Won	15.968241	0.062624
+Sri Lankan Rupee	2.713676	0.368504
+Swedish Krona	0.124781	8.014062
+Swiss Franc	0.012332	81.089296
+Taiwan New Dollar	0.373397	2.678112
+Thai Baht	0.433541	2.306588
+Trinidadian Dollar	0.090859	11.006055
+Turkish Lira	0.185126	5.401722
+US Dollar	0.013391	74.674540
+Venezuelan Bolivar	5901.264001	0.000169
